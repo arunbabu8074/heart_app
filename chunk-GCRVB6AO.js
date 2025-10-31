@@ -1,0 +1,1 @@
+import{Hb as t,Ib as r,dc as o,fb as a}from"./chunk-I2LWXBCZ.js";import"./chunk-7CGTOI24.js";var n=class s{static \u0275fac=function(e){return new(e||s)};static \u0275cmp=a({type:s,selectors:[["phad-user-dashboard"]],decls:2,vars:0,template:function(e,i){e&1&&(t(0,"p"),o(1,"user-dashboard works!"),r())},encapsulation:2})};export{n as UserDashboard};

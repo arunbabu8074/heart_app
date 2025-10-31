@@ -1,0 +1,58 @@
+[
+  {
+    "en": {
+      "title": "Heart Attacks are Predictable",
+      "content": "Learn to see the signs of a heart attack.",
+      "buttonLabel": "Start your Preventive Test"
+    },
+    "ml": {
+      "title": "ഹൃദയാഘാതങ്ങൾ പ്രവചിക്കാനാകും",
+      "content": "ഹൃദയ ആഘാതത്തിൻ്റെ ലക്ഷണങ്ങൾ കാണാൻ പഠിക്കുക.",
+      "buttonLabel": "പ്രതിരോധ പരിശോധന ആരംഭിക്കുക"
+    },
+    "imageUrl": "/images/home/cards/card-1.png",
+    "position": "left"
+  },
+  {
+    "en": {
+      "title": "You can see it coming",
+      "content": "The heart whispers before it screams.",
+      "buttonLabel": "See If You're at Risk"
+    },
+    "ml": {
+      "title": "നിങ്ങൾക്കിത് മുൻകൂട്ടി കാണാൻ കഴിയും",
+      "content": "ഹൃദയം അപകടത്തിന് മുമ്പ് മന്ത്രിക്കുന്നു.",
+      "buttonLabel": "നിങ്ങൾ അപകടത്തിൽ ആണോ?"
+    },
+    "imageUrl": "/images/home/cards/card-2.png",
+    "position": "right"
+  },
+  {
+    "en": {
+      "title": "You never get enough time",
+      "content": "1 in 10 people don’t reach the hospital in time. Don’t be a silent statistic.",
+      "buttonLabel": "Run a Heart Health Test"
+    },
+    "ml": {
+      "title": "നിങ്ങൾക്ക് വേണ്ടത്ര സമയം ലഭിക്കില്ല",
+      "content": "10 പേരിൽ ഒരാൾ സമയത്ത് ആശുപത്രിയിൽ എത്തുന്നില്ല. നിശബ്ദമായ ഒരു സാംഖ്യികം ആകരുത്.",
+      "buttonLabel": "ഹൃദയാരോഗ്യ പരിശോധന നടത്തുക"
+    },
+    "imageUrl": "/images/home/cards/card-3.png",
+    "position": "left"
+  },
+  {
+    "en": {
+      "title": "TMT cannot be trusted",
+      "content": "TMT results may be a false indicator. Don’t rely on them!",
+      "buttonLabel": "Take the Smarter Test Now"
+    },
+    "ml": {
+      "title": "TMT വിശ്വാസ യോഗ്യമല്ല",
+      "content": "TMT ഫലങ്ങൾ തെറ്റായ സൂചന ആകാം. അവയിൽ ആശ്രയിക്കരുത്!",
+      "buttonLabel": "കൂടുതൽ നല്ലതായ പരിശോധന"
+    },
+    "imageUrl": "/images/home/cards/card-4.png",
+    "position": "left"
+  }
+]
