@@ -1,0 +1,13 @@
+@use 'tailwindcss';
+
+@theme {
+  --color-surface: #e9effb;
+  --color-on-surface: #090a0a;
+  --color-primary: #d33545;
+  --color-dark: #2c2c2c;
+  --color-black: #000000;
+
+  --font-roboto: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+  --font-inter: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-manrope: 'Manrope', ui-sans-serif, system-ui, sans-serif;
+}

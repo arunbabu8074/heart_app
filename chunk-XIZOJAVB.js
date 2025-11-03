@@ -1,0 +1,1 @@
+import{Hb as r,Ib as i,dc as n,fb as s}from"./chunk-I2LWXBCZ.js";import"./chunk-7CGTOI24.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["phad-register"]],decls:2,vars:0,template:function(e,p){e&1&&(r(0,"p"),n(1,"register works!"),i())},encapsulation:2})};export{a as Register};

@@ -1,0 +1,42 @@
+.p-inputotp-input.p-component.p-inputtext {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-border);
+  &:focus {
+    border-color: var(--color-light-blue-700);
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  }
+}
+
+.ngp-end-aligned-menu.p-menu {
+  min-width: 6.25rem;
+}
+
+.ngp-carousel {
+  .p-carousel-indicator-list {
+    .p-carousel-indicator {
+      .p-carousel-indicator-button {
+        width: 0.75rem !important;
+        height: 0.75rem !important;
+      }
+      &.p-carousel-indicator-active {
+        .p-carousel-indicator-button {
+          background: var(--color-grey-300) !important;
+          border-radius: 0.25rem !important;
+          height: 0.5rem !important;
+          margin-block-start: 0.125rem;
+          width: 1.5rem !important;
+        }
+      }
+    }
+  }
+}
+
+.ngp-auth-modal.p-dialog {
+  background: url('/images/auth/modal-background.png') lightgray 50% / cover no-repeat;
+  filter: brightness(110%);
+  border: 0;
+  border-radius: 0.625rem;
+  .p-dialog-header {
+    padding: 0;
+  }
+}

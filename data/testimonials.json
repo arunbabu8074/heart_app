@@ -1,0 +1,59 @@
+[
+  {
+    "en": {
+      "name": "Suresh Kumar",
+      "job": "Software Engineer",
+      "content": "The preventive heart test provided by PHAD was a game-changer for me. The detailed insights and personalized recommendations helped me take control of my heart health. I highly recommend it to everyone!"
+    },
+    "ml": {
+      "name": "സുരേഷ് കുമാർ",
+      "job": "സോഫ്റ്റ്വെയർ എഞ്ചിനീയർ",
+      "content": "PHAD നൽകുന്ന പ്രതിരോധ ഹൃദയ പരിശോധന എനിക്ക് ഗെയിം-ചേഞ്ചർ ആയിരുന്നു. വിശദമായ ഉൾക്കാഴ്ചകളും വ്യക്തിഗത ശിപാർശകളും എന്റെ ഹൃദയാരോഗ്യം നിയന്ത്രിക്കാൻ എനിക്ക് സഹായിച്ചു. ഞാൻ എല്ലാവർക്കും ഇത് ശക്തമായി ശുപാർശ ചെയ്യുന്നു!"
+    },
+
+    "avatar": "/images/home/testimonials/avatar-1.jpg",
+    "rating": 4.7
+  },
+  {
+    "en": {
+      "name": "Anu Mathew",
+      "job": "Vlogger",
+      "content": "I thought I was fine. No pain, no symptoms. But the screening showed I was on the edge of a heart attack."
+    },
+    "ml": {
+      "name": "അനു മാത്യു",
+      "job": "വ്ലോഗർ",
+      "content": "എനിക്ക് നല്ലതാണെന്ന് തോന്നി. എനിക്ക് വേദനയോ ലക്ഷണങ്ങളോ ഉണ്ടായിരുന്നില്ല. എന്നാൽ സ്ക്രീനിംഗ് എനിക്ക് ഹൃദയാഘാതത്തിന്റെ സാധ്യത ഉണ്ടെന്ന് കാണിച്ചു."
+    },
+    "avatar": "/images/home/testimonials/avatar-2.jpg",
+    "rating": 4.5
+  },
+  {
+    "en": {
+      "name": "Mohini Varma",
+      "job": "Home Maker",
+      "content": "My father passed away without warning. I took the quiz out of fear and found I had the same silent risk."
+    },
+    "ml": {
+      "name": "മോഹിനി വർമ്മ",
+      "job": "ഹോം മേക്കർ",
+      "content": "എന്റെ അച്ഛൻ മുന്നറിയിപ്പില്ലാതെ മരിച്ചു. ഭയന്ന് ഞാൻ ക്വിസ് എടുത്തു. എന്നേയും ആ നിശബ്ദമായ അപകടം ബാധിച്ചിരിക്കുന്നതായി കണ്ടെത്തി."
+    },
+    "avatar": "/images/home/testimonials/avatar-3.jpg",
+    "rating": 4.5
+  },
+  {
+    "en": {
+      "name": "Abdul Haris",
+      "job": "Business Man",
+      "content": "I was skeptical at first, but the PHAD heart test exceeded my expectations. The process was simple, and the results were easy to understand. Thanks to PHAD, I now have a clear plan to improve my heart health."
+    },
+    "ml": {
+      "name": "അബ്ദുൽ ഹാരിസ്",
+      "job": "ബിസിനസ് മാൻ",
+      "content": "ഞാൻ ആദ്യം സംശയത്തിലായിരുന്നു, എന്നാൽ PHAD ഹൃദയ പരിശോധന എന്റെ പ്രതീക്ഷകളെ മറികടന്നു. പ്രക്രിയ എളുപ്പമായിരുന്നു, ഫലങ്ങൾ മനസ്സിലാക്കാനും. PHADയുടെ സഹായത്തോടെ എനിക്കിപ്പോൾ എൻ്റെ  ഹൃദയാരോഗ്യം മെച്ചപ്പെടുത്താൻ വ്യക്തമായൊരു പദ്ധതി ഉണ്ട്."
+    },
+    "avatar": "/images/home/testimonials/avatar-4.jpg",
+    "rating": 4.2
+  }
+]
