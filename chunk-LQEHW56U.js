@@ -1,0 +1,1 @@
+import{Ib as n,Jb as a,ec as p,gb as o}from"./chunk-MBPXCF6J.js";import"./chunk-7CGTOI24.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["phad-page-not-found"]],decls:2,vars:0,template:function(e,d){e&1&&(n(0,"p"),p(1,"page-not-found works!"),a())},encapsulation:2})};export{s as PageNotFound};
